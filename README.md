@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **HTLML and CSS**.
+- 💡 I'm currently learning **HTML and CSS**.
 - 🎓 Soon, I'll be exploring **JavaScript and React**!
 - 🤖 I am passionate about problem-solving and fascinated by the ever-evolving world of technology.
 - 🔥 Excited to turn my first lines of code into full applications!
