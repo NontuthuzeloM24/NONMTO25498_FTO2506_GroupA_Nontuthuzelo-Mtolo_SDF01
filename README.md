@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nontuthuzelo
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -8,10 +8,10 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 💡 I'm currently learning **HTLML and CSS**.
+- 🎓 Soon, I'll be exploring **JavaScript and React**!
+- 🤖 I am passionate about problem-solving and fascinated by the ever-evolving world of technology.
+- 🔥 Excited to turn my first lines of code into full applications!
 
 ---
 
@@ -19,13 +19,14 @@
 
 **Currently learning:**
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-circle&logo=html&logoColor=white)
 
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-circle&logo=css)
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
@@ -35,7 +36,7 @@
 - 🤝 Teamwork & Collaboration
 - 📢 Communication Skills
 - 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🚀 Time Management
 
 ---
 
@@ -51,33 +52,33 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** HTML, CSS, and JavaScript.
 🔹 **Status:** ⏳ In Progress
 
 ---
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 🚀 Get comfortable learning HTML , CSS, and how to use VSCode and GitHub.
+- 🎨 Learn JavaScript, React and Git.
+- 💡 Build real-world projects and collaborate with others.
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NontuthuzeloM24)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofilewww.linkedin.com/in/nontuthuzelo-mtolo-877b34237)  
+📧 Email: [mtolonontuthuzelo4@gmail.com](mailto:mtolonontuthuzelo4@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 If I can laugh through awkward moments, I can definitely laugh through bugs and broken build!
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NontuthuzeloM24&show_icons=true&theme=radical)
