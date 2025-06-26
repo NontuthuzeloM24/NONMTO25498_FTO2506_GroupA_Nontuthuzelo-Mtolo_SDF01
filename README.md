@@ -33,7 +33,7 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
+- 🤝 Teamwork & Accountability
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Time Management
