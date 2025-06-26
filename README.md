@@ -59,7 +59,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable learning HTML , CSS, and how to use VSCode and GitHub.
+- 🚀 Get comfortable learning HTML , CSS, and how to navigate VSCode and GitHub.
 - 🎨 Learn JavaScript, React and Git.
 - 💡 Build real-world projects and collaborate with others.
 
