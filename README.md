@@ -68,7 +68,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NontuthuzeloM24)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile/www.linkedin.com/in/nontuthuzelo-mtolo-877b34237)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nontuthuzelo-mtolo-877b34237)  
 📧 Email: [mtolonontuthuzelo4@gmail.com](mailto:mtolonontuthuzelo4@gmail.com)
 
 ---
